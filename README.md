@@ -22,7 +22,7 @@ apresentando detalhes técnicos, imagens de alta qualidade e informações de pr
 
 # Tecnologias utilizadas:
 
-## Pré-requisitos
+## Front end
 - HTML
 - CSS
 
