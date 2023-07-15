@@ -1,7 +1,7 @@
 # CATÁLOGO (não terminado) :office:
 
 # Sobre o projeto:
-Estou desenvolvendo um projeto de catálogo para a minha empresa de materiais elétricos, com o objetivo de fornecer aos nossos 
+Estou desenvolvendo um projeto de catálogo para a minha empresa de materiais elétricos e de iluminação, com o objetivo de fornecer aos nossos 
 clientes uma experiência de compra aprimorada e facilitar o acesso às informações sobre os produtos que oferecemos.
 
 Com um design moderno e intuitivo, o catálogo permitirá que os clientes naveguem facilmente por nossa ampla variedade de 
